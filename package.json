@@ -1,0 +1,12 @@
+{
+  "name": "design-tokens-automate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
