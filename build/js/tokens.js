@@ -6,6 +6,7 @@ module.exports = {
   ColorTransparent: "#00000000",
   ColorBlack: "#000000",
   ColorWhite: "#ffffff",
+  ColorNewColor: "#911313",
   ColorSlate50: "#f8fafc",
   ColorSlate100: "#f1f5f9",
   ColorSlate200: "#e2e8f0",
